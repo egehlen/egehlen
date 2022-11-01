@@ -1,7 +1,7 @@
 ## Full-Stack developer
 
 - ⌛ Over 10 years of experience on **C# .Net, Javascript, SQL and legacy/large-scaled enterprise systems**
-- 🌱 Currently learning **Node, React, Web3, blockchain, Postgresql, Design Patterns**
+- 🌱 Currently learning **Node, React, Flutter, blockchain, Postgresql, Design Patterns**
 
 ### 📫Get in touch
 
